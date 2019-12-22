@@ -1,0 +1,2 @@
+в папке  шифт + правая кнопка мыши
+browser-sync --server --files "*.html"
